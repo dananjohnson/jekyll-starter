@@ -59,11 +59,3 @@ gems:
 
 # Plugin: Jekyll Assets
 assets:
-  prefix: "/assets"
-  autoprefixer:
-    browsers:
-      - "last 2 versions"
-      - "IE > 9"
-  assets:
-    - "*.png"
-    - "bundle.css"
